@@ -2,6 +2,7 @@ namespace CentricElfCalibrator;
 
 public class Calibrator
 {
+    //
     public static int Total { get; set; }
 
     public static List<string> GetCalibration(string file)
